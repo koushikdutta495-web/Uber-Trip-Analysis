@@ -149,13 +149,14 @@ These are potential applications of the dashboard; specific business improvement
 Add screenshots of your actual Power BI report to the repository and update the filenames below.
 
 ### Overview Analysis
-![Uber Overview Analysis](screenshots/uber-overview-analysis.png)
+![Uber Overview Analysis](https://github.com/koushikdutta495-web/Uber-Trip-Analysis/blob/main/Overview%20Analysis.png
+)
 
 ### Time Analysis
-![Uber Time Analysis](screenshots/uber-time-analysis.png)
+![Uber Time Analysis](https://github.com/koushikdutta495-web/Uber-Trip-Analysis/blob/main/Time%20Analysis.png)
 
 ### Details
-![Uber Trip Details](screenshots/uber-trip-details.png)
+![Uber Trip Details](https://github.com/koushikdutta495-web/Uber-Trip-Analysis/blob/main/Details.png)
 
 
 
